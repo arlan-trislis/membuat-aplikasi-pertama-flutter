@@ -35,7 +35,7 @@ f. selesai
 Untuk dapat menjalankan aplikasi pada flutter dapat dengan menggunakan langkah-langkah berikut ini:
 <br><br>
 1. Pada bagian toolbar Android Studio, klik logo play <br>
-<img src="img/6.png" width="600" alt="toolbar android studio">
+<img src="img/6.png" >
 <br>
 2. Pada <b>target selector,</b> pilih android device untuk menjalankan aplikasi. Jika tidak ada pilihan yang
 tersedia, pilih <b>tools -> Android -> AVD Manager</b> dan membuat salah satu dari yang ada disana.
