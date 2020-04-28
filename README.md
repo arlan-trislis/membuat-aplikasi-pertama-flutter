@@ -25,7 +25,7 @@ d. Disini untuk set company domain, dan jika include kotlin dan swift. Kemudian 
 <br><br>
 e. Hasil run aplikasi flutter pertama
 <br>
-<img src="img/5.png" width="600" alt="aplikasi flutter pertama">
+<img src="img/5.png" width="300">
 <br><br>
 f. selesai
 <br><br><br>
@@ -44,7 +44,7 @@ tersedia, pilih <b>tools -> Android -> AVD Manager</b> dan membuat salah satu da
 <br>
 4. Setelah selesai, maka akan muncul tampilan seperti dibawah ini :
 <br>
-<img src="img/5.png" width="600" alt="aplikasi flutter pertama">
+<img src="img/5.png" width="300">
 <br>
 Ini adalah tampilan template default ketika kita membuat project pada flutter.
 <br><br>
